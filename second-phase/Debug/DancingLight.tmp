@@ -1,0 +1,38 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.43</VERSION>
+ <DEVICE>ATmega32</DEVICE>
+ <WORKING_DIR>C:\Users\user\Documents\AVRStudio\DancingLight\DancingLight\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Studio 5.0\avrassembler\include</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\user\Documents\AVRStudio\DancingLight\DancingLight\DancingLight.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Studio 5.0\avrassembler\include\m32def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\user\Documents\AVRStudio\DancingLight\DancingLight\Debug/DancingLight.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\user\Documents\AVRStudio\DancingLight\DancingLight\Debug/DancingLight.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\user\Documents\AVRStudio\DancingLight\DancingLight\Debug/DancingLight.map</FILE>
+  <FILE>C:\Users\user\Documents\AVRStudio\DancingLight\DancingLight\Debug/DancingLight.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <main><FILE>C:\Users\user\Documents\AVRStudio\DancingLight\DancingLight\DancingLight.asm</FILE><LINE>9</LINE></main>
+  <loop><FILE>C:\Users\user\Documents\AVRStudio\DancingLight\DancingLight\DancingLight.asm</FILE><LINE>25</LINE></loop>
+  <L1><FILE>C:\Users\user\Documents\AVRStudio\DancingLight\DancingLight\DancingLight.asm</FILE><LINE>43</LINE></L1>
+  <L2><FILE>C:\Users\user\Documents\AVRStudio\DancingLight\DancingLight\DancingLight.asm</FILE><LINE>52</LINE></L2>
+  <L3><FILE>C:\Users\user\Documents\AVRStudio\DancingLight\DancingLight\DancingLight.asm</FILE><LINE>61</LINE></L3>
+  <L4><FILE>C:\Users\user\Documents\AVRStudio\DancingLight\DancingLight\DancingLight.asm</FILE><LINE>71</LINE></L4>
+  <L5><FILE>C:\Users\user\Documents\AVRStudio\DancingLight\DancingLight\DancingLight.asm</FILE><LINE>81</LINE></L5>
+  <L6><FILE>C:\Users\user\Documents\AVRStudio\DancingLight\DancingLight\DancingLight.asm</FILE><LINE>91</LINE></L6>
+  <L7><FILE>C:\Users\user\Documents\AVRStudio\DancingLight\DancingLight\DancingLight.asm</FILE><LINE>113</LINE></L7>
+  <L8><FILE>C:\Users\user\Documents\AVRStudio\DancingLight\DancingLight\DancingLight.asm</FILE><LINE>122</LINE></L8>
+  <L9><FILE>C:\Users\user\Documents\AVRStudio\DancingLight\DancingLight\DancingLight.asm</FILE><LINE>131</LINE></L9>
+  <L10><FILE>C:\Users\user\Documents\AVRStudio\DancingLight\DancingLight\DancingLight.asm</FILE><LINE>140</LINE></L10>
+  <L11><FILE>C:\Users\user\Documents\AVRStudio\DancingLight\DancingLight\DancingLight.asm</FILE><LINE>149</LINE></L11>
+  <L12><FILE>C:\Users\user\Documents\AVRStudio\DancingLight\DancingLight\DancingLight.asm</FILE><LINE>159</LINE></L12>
+ </LABELS>
+</ASSEMBLER_INFO>
